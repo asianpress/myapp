@@ -1,0 +1,6 @@
+{
+  "name": "Asian Press Live",
+  "description": "Mobile broadcast and live production studio under the Asian Press brand with customizable studio watermarks, real-time transitions, overlay management, local recording, and one-tap social livestreaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

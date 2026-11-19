@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Asian Press Live</string>
+
+    <!-- Navigation -->
+    <string name="nav_studio">Studio</string>
+    <string name="nav_brands">Brands</string>
+    <string name="nav_overlays">Overlays</string>
+    <string name="nav_streams">Social &amp; Clips</string>
+
+    <!-- Studio HUD & Actions -->
+    <string name="status_standby">STANDBY</string>
+    <string name="status_recording">REC</string>
+    <string name="status_live">ON AIR</string>
+    <string name="status_connecting">CONNECTING</string>
+    <string name="action_go_live">GO LIVE</string>
+    <string name="action_stop_live">END LIVE</string>
+    <string name="action_record">REC MP4</string>
+    <string name="action_stop_record">STOP REC</string>
+    <string name="action_snapshot">SNAP</string>
+    <string name="action_flip_camera">Flip Camera</string>
+    <string name="action_toggle_torch">Toggle Flash</string>
+    <string name="action_toggle_mute">Toggle Mic Mute</string>
+    <string name="action_toggle_guides">Safe Frame Guides</string>
+    <string name="action_trigger_stinger">Run Transition</string>
+    <string name="grant_camera_permissions">Enable Camera &amp; Mic</string>
+    <string name="camera_permission_rationale">Grant camera and microphone access for live viewfinder capture, branded MP4 recording, and social RTMP streaming. You can also test overlays and transitions in Studio Slate mode right away.</string>
+
+    <!-- Control Deck Tabs & Scenes -->
+    <string name="tab_overlays">Overlays</string>
+    <string name="tab_transitions">Transitions</string>
+    <string name="tab_live_copy">On-Air Text</string>
+    <string name="scene_camera">Live Cam</string>
+    <string name="scene_slate">Studio Slate</string>
+    <string name="scene_brb">Be Right Back</string>
+    <string name="scene_contact">Contact Card</string>
+
+    <!-- Brands Screen -->
+    <string name="brands_title">Studio &amp; Client Brands</string>
+    <string name="brands_subtitle">Switch watermarks, logos, and contact details on the fly for Asian Press or customer studios.</string>
+    <string name="action_new_brand">New Brand Profile</string>
+    <string name="action_edit_brand">Edit Brand</string>
+    <string name="action_set_active_brand">Set On Air</string>
+    <string name="badge_active_on_air">ON AIR</string>
+    <string name="action_pick_logo">Pick Logo Image</string>
+    <string name="action_use_asian_press_logo">Asian Press Emblem</string>
+    <string name="action_use_monogram">Studio Monogram</string>
+    <string name="action_save_brand">Save Brand Profile</string>
+    <string name="action_delete_brand">Delete Profile</string>
+
+    <!-- Overlays Screen -->
+    <string name="overlays_title">Overlay &amp; Transition Presets</string>
+    <string name="overlays_subtitle">Load broadcast graphics packages, lower-thirds, tickers, and transitions in one tap.</string>
+    <string name="action_load_preset">Load to Studio</string>
+    <string name="action_new_preset">New Preset</string>
+    <string name="action_save_preset">Save Preset</string>
+
+    <!-- Streams & Recordings Screen -->
+    <string name="streams_title">Social Platforms &amp; Recordings</string>
+    <string name="streams_subtitle">Arm social destinations for 1-tap livestreaming or manage recorded branded MP4 clips.</string>
+    <string name="section_social_destinations">1-Tap Social Destinations</string>
+    <string name="section_recordings">Recorded Broadcasts &amp; Logs</string>
+    <string name="action_configure">Configure</string>
+    <string name="action_share_clip">Share</string>
+    <string name="action_open_clip">Play</string>
+    <string name="empty_recordings_title">No recordings or streams yet</string>
+    <string name="empty_recordings_body">Tap REC MP4 or GO LIVE in the Studio tab to capture branded video with real-time watermarks and transitions.</string>
+
+    <!-- Errors & Notifications -->
+    <string name="error_no_armed_platform">Arm at least one social platform with a Stream Key to broadcast live.</string>
+    <string name="msg_snapshot_saved">Branded frame snapshot saved.</string>
+    <string name="msg_recording_saved">Branded MP4 saved to Movies/AsianPressLive.</string>
+</resources>
